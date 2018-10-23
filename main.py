@@ -38,6 +38,7 @@ add_form = """
 
 # a form for crossing off watched movies
 crossoff_form = """
+    <h1>I would like to cross off {0} from my list<h1>
 
 """
 
